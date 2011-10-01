@@ -1,0 +1,4 @@
+# This is the Pegex grammar for dtsl
+
+dtsl:
+    /~Your grammar goes here~/
