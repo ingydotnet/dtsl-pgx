@@ -1,0 +1,6 @@
+{
+   "+toprule" : "dtsl",
+   "dtsl" : {
+      ".rgx" : "\\s*Yourgrammargoeshere\\s*"
+   }
+}
